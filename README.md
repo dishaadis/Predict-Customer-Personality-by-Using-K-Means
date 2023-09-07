@@ -29,7 +29,7 @@ This directory contains the following files :
 <p align="justify">
 This directory contains the following files :
   
-  * **Predict-Customer-Personality Using K-Means.ipynb** : Source code to perform data preprocessing, EDA and modeling.
+  * **Predict Customer Personality Using K-Means.ipynb** : Source code to perform data preprocessing, EDA and modeling.
   
 </p>
 
@@ -48,7 +48,7 @@ The analysis process carried out in this project is as follows :
 <p align="justify">
 This directory contains the following files :
 
-  * **Predict-Customer-Personality Using K-Means Report.pdf** : Reports on analysis steps, data preprocessing, visualizations, interpretations, insights and recommendations.
+  * **Predict Customer Personality Using K-Means Report.pdf** : Reports on analysis steps, data preprocessing, visualizations, interpretations, insights and recommendations.
 </p>
 
 ## Software Requirements
