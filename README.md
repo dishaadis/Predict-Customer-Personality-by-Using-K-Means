@@ -38,7 +38,7 @@ This directory contains the following files :
 The analysis process carried out in this project is as follows :
   
   1. Data Preprocessing
-  2. EDA
+  2. Exploratory Data Analysis (EDA)
   3. Modeling K-Means
   4. Insight & Recomendations
   
