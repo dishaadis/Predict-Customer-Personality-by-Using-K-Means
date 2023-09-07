@@ -4,6 +4,13 @@
 
 ## Project Description
 <p align="justify">
+A deep understanding of customer behavior and personality is a crucial foundation for rapid and sustainable growth for a company. By knowing the individual characteristics of customers, companies can provide more relevant services and better benefits for them, especially customers who have the potential to become loyal customers who contribute significantly to the company's success.
+  
+<p align="justify">
+One way to achieve this understanding is by analyzing historical data from past marketing campaigns. Companies can identify customer behavior patterns, preferences, and trends by analyzing this data. It allows companies to optimize the performance of future marketing campaigns by directing their efforts to customers who have the highest interest and potential to transact on the company's platform.
+  
+<p align="justify">
+However, what is even more important is that the insights gained from this data help companies design effective cluster prediction models. This model helps group customers based on their characteristics, allowing companies to design more focused and personalized strategies. As a result, companies can make smarter decisions in various aspects of business, such as product development, marketing strategy, and customer relationship management. Thus, cluster prediction models make it easier for companies to optimize their operations and achieve sustainable growth.
 
 </p>
 
