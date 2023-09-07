@@ -29,7 +29,7 @@ This directory contains the following files :
 <p align="justify">
 This directory contains the following files :
   
-  * **Predict-Customer-Personality Using K-Means.ipynb** : Source code to perform data preprocessing and visualization
+  * **Predict-Customer-Personality Using K-Means.ipynb** : Source code to perform data preprocessing, EDA and modeling.
   
 </p>
 
