@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Predict Customer Personality to Boost Marketing Campaign by Using K-Means </h1>
+  <h1> Predict Customer Personality by Using K-Means </h1>
 </p>
 
 ## Project Description
